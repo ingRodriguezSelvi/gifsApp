@@ -8,3 +8,16 @@ html,body{
   min-height: 100vh;
   min-width: 180px;
 }
+.card-img-top{
+  min-height: 10rem;
+}
+.card-body{
+  padding: 0.5rem;
+}
+.card{
+  min-height: 20rem;
+  margin-bottom: 0.5rem;
+}
+.list-group-item{
+  cursor: pointer;
+}
